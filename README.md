@@ -1,11 +1,10 @@
+
+use heros of pymoli starter file
+
+
 # pandas-challenge
 Pandas
-
-following is the instructions which we had to follow- use the main heros of pymoli starter and not the copy
-
-
-
-
+following is the instructions which we had to follow-
 
 
 
